@@ -11,6 +11,7 @@ import com.codepath.android.lollipopexercise.models.Contact;
 
 import java.util.ArrayList;
 import java.util.List;
+import com.squareup.picasso.Target;
 
 
 public class ContactsActivity extends Activity {
